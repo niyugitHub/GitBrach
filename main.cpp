@@ -48,6 +48,8 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 
 		SetMouseDispFlag(1);
 
+
+
 		scene.update();
 		scene.draw();
 
